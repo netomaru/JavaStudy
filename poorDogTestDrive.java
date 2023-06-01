@@ -19,8 +19,8 @@ public class poorDogTestDrive
         }
 
         poorDog one = new poorDog();
-        System.out.println("The size of dog is" + one.getSize());
-        System.out.println("The name of dog is" + one.getName());
+        System.out.println("The size of dog is " + one.getSize());
+        System.out.println("The name of dog is " + one.getName());
 
 
 
